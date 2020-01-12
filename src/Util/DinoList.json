@@ -1,0 +1,25 @@
+{
+    [
+        {
+            "name" : "Tyrannosaurus Rex",
+            "wiki": "https://en.wikipedia.org/wiki/Tyrannosaurus"
+        },
+        {
+            "name" : "Stegosaurus",
+            "wiki": "https://en.wikipedia.org/wiki/Stegosaurus"
+        },
+        {
+            "name" : "Supersaurus",
+            "wiki": "https://en.wikipedia.org/wiki/Supersaurus"
+        },
+        {
+            "name" : "Albertosaurus",
+            "wiki": "https://en.wikipedia.org/wiki/Albertosaurus"
+        },
+        {
+            "name" : "Allosaurus",
+            "wiki": "https://en.wikipedia.org/wiki/Allosaurus"
+        },
+    ]
+}
+
