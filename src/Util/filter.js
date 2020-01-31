@@ -37,7 +37,7 @@ export const dinoListCleanup = (dinolist) => {
         obj['wiki'] = getWiki(obj.name)
         return obj
     })
-    list.map(item => {
+    list.forEach(item => {
         const letter = item.name[0]
         dinoObj[letter] ? dinoObj[letter] = [...dinoObj[letter], item] : dinoObj[letter] = [item]
     })

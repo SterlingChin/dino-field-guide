@@ -639,7 +639,7 @@ export const dinolist = [
     'Szechuanosaurus - This theropod was a close relative of Sinraptor.',
     '<a href="https://www.thoughtco.com/early-dinosaur-pictures-and-profiles-4047614">Tachiraptor - The first meat-eating dinosaur ever to be discovered in Venezuela.</a>',
     '<a href="https://www.thoughtco.com/armored-dinosaur-pictures-and-profiles-4043317">Talarurus - This ankylosaur was discovered in the Gobi Desert.</a>',
-    '<a href="https://www.thoughtco.com/ornithopod-dinosaur-pictures-and-profiles-4043320">Talenkauen A rare ornithopod from South America.</a>',
+    '<a href="https://www.thoughtco.com/ornithopod-dinosaur-pictures-and-profiles-4043320">Talenkauen - A rare ornithopod from South America.</a>',
     '<a href="https://www.thoughtco.com/feathered-dinosaur-pictures-and-profile-4049097">Talos - This dinosaur was found with an injured big toe.</a>',
     '<a href="https://www.thoughtco.com/titanosaur-dinosaur-pictures-and-profiles-4043318">Tangvayosaurus - This Laotian titanosaur was closely related to Phuwiangosaurus.</a>',
     '<a href="https://www.thoughtco.com/duck-billed-dinosaur-4043319">Tanius - Not much is known about this Chinese hadrosaur.</a>',
